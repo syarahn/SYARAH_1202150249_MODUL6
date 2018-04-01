@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "94592829979",
+    "firebase_url": "https://thermal-pattern-194410.firebaseio.com",
+    "project_id": "thermal-pattern-194410",
+    "storage_bucket": "thermal-pattern-194410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94592829979:android:80d1fd4d2989dc53",
+        "android_client_info": {
+          "package_name": "com.example.gl552vw.syarah_1202150249_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94592829979-vg83gb8mfesf2r946dg56j182adndnlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoW-AOkzr_-HfMzTMxpT-BTEQYY5lmq68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
